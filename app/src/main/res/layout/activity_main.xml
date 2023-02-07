@@ -39,7 +39,7 @@
             android:onClick="onClick"/>
 
         <Button
-            android:id="@+id/btnLlenarListView"
+            android:id="@+id/btnConsultarListView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Consultar Usuarios ListView"
