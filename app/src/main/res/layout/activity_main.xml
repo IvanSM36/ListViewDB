@@ -35,7 +35,14 @@
             android:id="@+id/btnConsultaSpinner"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Consultar Usuario Spinner"
+            android:text="Consultar Usuarios Spinner"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/btnLlenarListView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Consultar Usuarios ListView"
             android:onClick="onClick"/>
 
     </LinearLayout>
